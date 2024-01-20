@@ -13,16 +13,16 @@
 
 <p>
   
-Hi 👋, I am **Ravi**, a data scientist. I specialize in NLP and MLOps. I love to engage and join new communities so feel free to reach out!
+Hi 👋, I am **Ravi**, a physicist and mathematician turned data scientist. I love to engage and join new communities so feel free to reach out!
 
 <div>
   <summary>🧑 More about me</summary>
 
 - 🚀 Background in quantum computing
 
-- 🤖 Have been studying machine learning on the side throughoutt my years in research
+- 🤖 Have been studying machine learning on the side throughout my years in research
 
-- 🌱 I’m continuing to expand my knowledge in NLP and MLOps
+- 🌱 Currently immersing myself in NLP and MLOps
 
 - 👨‍💻 Most active on LinkedIn, check me out there: [RaviBRai](https://www.linkedin.com/in/ravibrai/)
   

@@ -1,4 +1,4 @@
-![Data Science Banner](https://www.clustertech.com/sites/default/files/Product/A.I.%20%26%20Analytics/Machine%20Learning/49%29-Machine-Learning-web-banner2017-3.jpg)
+![Data Science Banner](Ravi’s%20Skills.png)
 
 <p align="center">
   <a href="https://twitter.com/RaviDataMind"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/IJg4kP6.png"/></a>

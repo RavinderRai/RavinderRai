@@ -13,7 +13,7 @@
 
 <p>
   
-Hi 👋, I am **Ravi**, a physicist and mathematician turned data scientist. I love to engage and join new communities so feel free to reach out!
+Hi 👋, I am **Ravi**, a physicist and mathematician turned data scientist and machine learning engineer. I love to engage and join new communities so feel free to reach out!
 
 <div>
   <summary>🧑 More about me</summary>

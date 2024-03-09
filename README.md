@@ -1,4 +1,4 @@
-![Data Science Banner](Ravi’s%20Skills.png)
+![Data Science Banner](Ravi’s%20Skills%20(2).png)
 
 <p align="center">
   <a href="https://twitter.com/RaviDataMind"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/IJg4kP6.png"/></a>

@@ -13,7 +13,7 @@
 
 <p>
   
-Hi 👋, I'm **Ravinder** (but I go by Ravi or Bruce normally). I'm a physicist and mathematician turned data scientist/machine learning engineer. I love to engage and join new communities so feel free to reach out!
+Hi 👋, I'm **Ravinder** (but I go by Ravi normally). I'm a physicist and mathematician turned data scientist/machine learning engineer. I love to engage and join new communities so feel free to reach out!
 
 <div>
   <summary>🧑 More about me</summary>

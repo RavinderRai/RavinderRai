@@ -1,4 +1,5 @@
-![Data Science Banner](Ravi’s%20Skills.png)
+<img src="SkillsBannerImage.jpeg" alt="Image Alt Text" width="1000" height="270">
+
 
 <p align="center">
   <a href="https://twitter.com/RaviDataMind"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/IJg4kP6.png"/></a>

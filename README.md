@@ -6,7 +6,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/ravibrai/"><img width="32px" alt="Dev.to" title="Giingu Dev.to" src="https://i.imgur.com/OQUXwNp.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ravinderrai.com"><img width="32px" alt="Ko-fi" title="Website" src="https://www.pngitem.com/pimgs/m/54-546558_website-logo-png-transparent-background-image-black-transparent.png"/></a>
+  <a href="https://ravinderrai.com"><img width="32px" alt="Ko-fi" title="Website" src="https://i.pinimg.com/originals/64/67/6a/64676a02251b2865ceef4f07031a39c7.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 

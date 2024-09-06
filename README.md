@@ -1,4 +1,4 @@
-<img src="SkillsBannerImage.jpeg" alt="Image Alt Text" width="1000" height="270">
+<img src="linkedin_banner.jpg" alt="Image Alt Text" width="1000" height="270">
 
 
 <p align="center">

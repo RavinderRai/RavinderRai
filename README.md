@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://twitter.com/RaviDataMind"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/IJg4kP6.png"/></a>
+  <a href="https://twitter.com/RaviDataMind"><img width="35px" alt="Twitter" title="Twitter" src="https://img.freepik.com/premium-vector/new-twitter-logo-x-black-background_692249-31.jpg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/ravibrai/"><img width="32px" alt="Dev.to" title="Giingu Dev.to" src="https://i.imgur.com/OQUXwNp.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;

@@ -14,17 +14,19 @@
 
 <p>
   
-Hi 👋, I'm **Ravinder** (but I go by **Ravi** normally). I'm a physicist and mathematician turned data scientist/machine learning engineer. I love to engage and join new communities so feel free to reach out!
+Hi 👋, I'm **Ravinder** (but I go by **Ravi** normally). I'm a typical physicist turned ML/AI Engineer, and since school I ended up going down the freelance route.
 
 <div>
-  <summary>🧑 More about me</summary>
+  <summary>🔧 What I Do</summary>
 
-- 🚀 Background in quantum computing
+- Background in quantum computing.
 
-- 🤖 Have been studying machine learning on the side throughout my years in research
+- Focus is on traditional ML alongside LLM Engineering.
 
-- 🌱 Currently immersing myself in NLP and MLOps
+- Currently sharpening adjacent skills like frontend development.
 
-- 👨‍💻 Most active on LinkedIn, check me out there: [RaviBRai](https://www.linkedin.com/in/ravibrai/)
+- Also Blog on the side about my learnings in ML and things I've built.
+
+- Even dabble in indie hacking - you'll see repos for those apps here (except for the ones that actually take off, hopefully one day maybe soon probably not). 
   
 </p>
